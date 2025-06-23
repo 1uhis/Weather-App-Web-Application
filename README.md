@@ -43,7 +43,7 @@ v(Node.js verision) for example: v18.16.1
 
 After completing all the above steps, you can clone this repository on your device using the following command:
 ```
-git clone https://github.com/UOA-CS732-SE750-Students-2024/cs732-assignment-1uhis.git
+git clone https://github.com/1uhis/Weather-App-Web-Application.git
 ```
 If you can't clone the repository on your device's terminal, try clone on the IDE's terminal (such as VS Code).
 
